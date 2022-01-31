@@ -1,2 +1,2 @@
 # To Create Your QR Code Click This Link👇👇
-[Generate Your QR Code->](is.gd/MVvBYD)
+[Generate Your QR](https://projectpustak.github.io/QR-Code-Generator.github.io/)
